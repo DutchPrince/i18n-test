@@ -1,6 +1,6 @@
 // #region Global Imports
 import NextI18Next from "next-i18next";
-import * as common from "@static/locales/en/common.json";
+import * as common from "../static/locales/en/common.json";
 // #endregion Global Imports
 const path = require("path");
 
